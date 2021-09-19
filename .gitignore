@@ -1,1 +1,3 @@
 ds_ya/
+*.csv
+.ipynb_checkpoints
