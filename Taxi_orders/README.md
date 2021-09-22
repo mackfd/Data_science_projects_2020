@@ -10,8 +10,9 @@ Solution
 =================
 1. Load data
 2. Resample to hours
-3. Perform analysis
-4. Feature engineering if necessary
+3. Perform analysis 
+4. Manual feature creation and then Linear regression model applied
+Statmodels to identify p,q,d parameters and then ARIMA applied
 5. Train different models 
 6. Measure RMSE on test dataset which is 10% of the initial dataset
 
@@ -19,5 +20,7 @@ Solution
 Data
 =================
 
-Numbner of taxi orders is stored in 'num_orders'
+Numbner of taxi orders is stored in 'num_orders'. 
 Number of orders saved for every 10 minutes. 
+
+
