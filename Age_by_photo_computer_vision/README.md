@@ -8,7 +8,7 @@ b) control alkohol purchase
 Solution
 =================
 
-Implement model that can give persone age by the photo. 
+Implement ResNet50 model that can give persone age by the photo. 
 
 Data
 =================
